@@ -12,7 +12,8 @@
 ![](https://img.shields.io/github/watchers/{purushothaman7}.svg)
 
 ### Stats
-![Purushot's Stats](https://github-readme-stats.vercel.app/api?username=sajayprakash&theme=tokyonight)
+![Purushoth's Stats](https://github-readme-stats.vercel.app/api?username=purushothaman7&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![Purushoth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purushothaman7&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 <!--
 **purushothaman7/purushothaman7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
